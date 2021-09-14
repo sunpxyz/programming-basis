@@ -1,0 +1,1 @@
+ALTER TABLE Jyushoroku ADD COLUMN yubin_bango CHAR(10) NOT NULL;
