@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\CH03_BruteForce">
+      <UniqueIdentifier>{7fb9e2e2-8464-4533-89d3-e2bb6ca83f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CH04_DivideConquer">
+      <UniqueIdentifier>{e802e2c1-f882-4c32-8af3-55067e75f48a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CH05_ReduceConquer">
+      <UniqueIdentifier>{1eb6959f-9de0-4488-abc5-2e3bb594e4e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CH07_SpaceTimeTradeoffs">
+      <UniqueIdentifier>{ff3f2c8c-8876-4968-9c37-3c53faed4383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CH08_DynamicProgramming">
+      <UniqueIdentifier>{db6f9f9a-e4e4-4971-a4fd-cd1b9556e149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CH12_OverAlgo">
+      <UniqueIdentifier>{e2196bab-bb6e-447f-b045-d1a900a9359e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceStringMatch.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearch2.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceClosestPoints.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceConvexHull.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceTSP.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceKnapsack.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="BruteForceDistribution.cpp">
+      <Filter>Source Files\CH03_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>Source Files\CH04_DivideConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>Source Files\CH04_DivideConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>Source Files\CH04_DivideConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleValueSelection.cpp">
+      <Filter>Source Files\CH05_ReduceConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="InterpolationSearch.cpp">
+      <Filter>Source Files\CH05_ReduceConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvexPackage.cpp">
+      <Filter>Source Files\CH04_DivideConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Package.cpp">
+      <Filter>Source Files\CH08_DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Backtrack.cpp">
+      <Filter>Source Files\CH12_OverAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="Anagrams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
